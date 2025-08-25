@@ -1,0 +1,23 @@
+h1 {
+    color:red;
+    text-align: center;
+}
+
+.text-white {
+
+    color:white;
+    background-color: red;
+    display: inline;
+}
+
+#text-maior {
+    color: white;
+    font-size: 36px;
+    font-family: "Arial";
+    background-color: red;
+
+}
+
+body{
+    background-color:black;
+}

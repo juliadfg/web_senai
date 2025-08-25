@@ -1,0 +1,48 @@
+h1 {
+    color:black;
+    text-align: center;
+}
+ul{
+    background-color: white
+
+}
+.text-verde{
+    color: green;
+    background-color: grey;
+}
+
+.text-vermelho{
+    color: red;
+    text-align: center;
+    background-color: grey;
+}
+.text-azul{
+    color: blue;
+    text-align: right;
+    background-color: grey;
+}
+.text-roxo{
+    color: rebeccapurple;
+    text-align: center;
+    background-color: grey;
+}
+.text-amarelo{
+    color: yellow;
+    text-align: left;
+    background-color: grey;
+}
+.text-rosa{
+    color: deeppink;
+    text-align: center;
+    background-color: grey;
+}
+
+
+body{
+    background-color:khaki;
+}
+Li:hover{
+    color:black;
+    text-align: left;
+    background-color: white;
+}
