@@ -1,0 +1,57 @@
+body{
+    background-color: lightblue;
+    text-align: center;
+}
+
+.green {
+    background-color: green;
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+    border: black;
+    padding: 10px;
+    display: inline-block;
+
+}
+
+.blue {
+    background-color: blue;
+    height: 250px;
+    width: 250px;
+    border-radius: 100%;
+    border: black;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+
+}
+
+.yellow {
+    background-color: yellow;
+    height: 250px;
+    width: 250px;
+    border-radius: 20px;
+    border: black;
+    margin 10px;
+    padding: 10px;
+    display: inline-block;
+
+}
+
+.green1{
+    background-color: green;
+    height: 200px;
+    width: 54%;
+    border: black;
+    border-radius: 40px;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+
+}
+
+div:hover{
+    background-color: white;
+    border: 2px solid black ;
+
+}
