@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.red {
+
+    height: 90px;
+    background-color: red;
+    margin: 30px;
+}
+
+.azul_escuro {
+
+    height: 250px;
+    background-color: #80b3c3;
+    margin: 30px;
+}
+
+.linha {
+    display: flex;
+    background: green;
+    border: 30px solid red;
+    margin: 40px;
+}
+
+.linha-2 {
+    display: flex;
+    background: #bbe7ec;
+    border: 40px solid #3c7f81;
+    margin: 40px;
+    height: 185px;
+}
+
+.azul_claro {
+    display: flex;
+    justify-content: space-between;
+}
+
+.azul_claro div {
+    width: 600px;
+    height: 200px;
+    background-color: #bbe7ec;
+    margin: 40px;
+}

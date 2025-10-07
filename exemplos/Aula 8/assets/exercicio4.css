@@ -1,0 +1,134 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.red {
+    height: 40px;
+    background-color: blue;
+    margin: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.menu {
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+    align-items: center;
+    flex-direction: row;
+}
+
+.logo {
+    color: white;
+    font-size: 20px;
+    font-family: Arial;
+    margin: 30px;
+}
+
+.h {
+    color: white;
+    margin: 20px;
+    font-size: 24px;
+    font-family: Arial;
+}
+
+.a {
+    color: white;
+    margin: 20px;
+    font-size: 24px;
+    font-family: Arial;
+}
+
+.s {
+    color: white;
+    margin: 20px;
+    font-size: 24px;
+    font-family: Arial;
+}
+
+.t {
+    color: white;
+    margin: 20px;
+    font-size: 24px;
+    font-family: Arial;
+}
+
+.c {
+    color: white;
+    margin: 20px;
+    font-size: 24px;
+    font-family: Arial;
+}
+.azul_escuro {
+    height: 250px;
+    margin: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.lefts {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.rights {
+    display: flex;
+    justify-content: center;
+}
+
+
+.azul_claro {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+.qua1{
+    background-color: cornsilk;
+    height: 260px;
+    width: 300px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.d4{
+    display: flex;
+    justify-content: center;
+}
+.qua2{
+    background-color: cornsilk;
+    height: 260px;
+    width: 300px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.d5{
+    display: flex;
+    justify-content: center;
+}
+.qua3{
+    background-color: cornsilk;
+    height: 260px;
+    width: 300px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.d6{
+    display: flex;
+    justify-content: center;
+}
+
+

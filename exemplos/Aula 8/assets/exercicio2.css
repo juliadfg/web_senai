@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.red {
+    height: 40px;
+    background-color: blue;
+    margin: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.menu {
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+    align-items: center;
+    flex-direction: row;
+    margin: 20px;
+}
+.logo {
+    color: white;
+    font-size: 20px;
+    font-family: Arial;
+    margin: 30px;
+}
+.h {
+    color: white;
+    margin: 20px;
+    font-size: 24px;
+    font-family: Arial;
+}
+
+.a {
+    color: white;
+    margin: 20px;
+    font-size: 24px;
+    font-family: Arial;
+}
+
+.s {
+    color: white;
+    margin: 20px;
+    font-size: 24px;
+    font-family: Arial;
+}
+
+.t {
+    color: white;
+    margin: 20px;
+    font-size: 24px;
+    font-family: Arial;
+}
+
+.c {
+    color: white;
+    margin: 20px;
+    font-size: 24px;
+    font-family: Arial;
+}
+
+
+
+.azul_escuro {
+    height: 250px;
+    background-color: dodgerblue;
+    margin: 30px;
+}
+
+.azul_claro {
+    display: flex;
+    justify-content: space-between;
+}
+
+.azul_claro div {
+    width: 600px;
+    height: 200px;
+    background-color: #00BFFF;
+    margin: 40px;
+}

@@ -1,0 +1,23 @@
+p {
+    color: red;
+}
+
+.text-black {
+
+    color:white;
+    background-color: red;
+    display: inline;
+}
+
+#text-maior {
+    font-size: 32px;
+    font-family: "Arial";
+
+}
+
+#text-maior:hover {
+    color: blue;
+    font-size: 32px;
+    font-family: "Arial";
+
+}
