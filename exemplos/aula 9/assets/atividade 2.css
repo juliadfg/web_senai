@@ -1,0 +1,75 @@
+th {
+    background-color: darkblue;
+    color: lightblue;
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-family: Arial;
+}
+
+.numero1 {
+    color: lawngreen;
+    background-color: darkblue;
+    border: 1px solid darkred;
+    text-align: center;
+}
+
+.numero2 {
+    color: lightskyblue;
+    background-color: darkblue;
+    border: 1px solid darkred;
+    text-align: center;
+}
+
+.numero3 {
+    color: yellow;
+    background-color: darkblue;
+    border: 1px solid darkred;
+    text-align: center;
+}
+
+.numero4 {
+    color: whitesmoke;
+    background-color: darkblue;
+    border: 1px solid darkred;
+    text-align: center;
+}
+
+.numero5 {
+    color: red;
+    background-color: darkblue;
+    border: 1px solid darkred;
+    text-align: center;
+}
+
+.time {
+    background-color: beige;
+    border: 1px solid darkred;
+    border-collapse: collapse;
+    font-family: Arial;
+    text-align: start;
+}
+.n {
+    background-color: #00BFFF;
+    border: 1px solid darkred;
+    border-collapse: collapse;
+    font-family: Arial;
+    text-align: center;
+}
+.n1 {
+    background-color: darkblue;
+    color: lightblue;
+    border: 1px solid darkred;
+    border-collapse: collapse;
+    font-family: Arial;
+    text-align: center;
+}
+
+
+
+table, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-family: Arial;
+}
+
+
